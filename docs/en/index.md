@@ -1,4 +1,5 @@
 # Summary for the blog 🟠
+!!! danger "“Have an idea? GitHub login → [Comment below](#comments) ⬇️ 💬😜” "
 
 <span class='git-page-authors'> ![Image title](./../assets/molly1.png){ align=left width="50" style="border-radius: 50%; overflow: hidden;" loading=lazy}<a class="firstBlog" href='mailto:anothersky080895@gmail.com'>Molly Xue</a></span>
 
@@ -8,7 +9,8 @@
 
 Dear Reader,
 
-Another Sky is a space where I share my thoughts and knowledge with anyone who loves to read. It is an honor to have your attention, and I’d love to hear from you—what you enjoy, what you’d like to see more of, and how we can improve. After all, this space exists for you! (Feel free to click my name to send me an email with your thoughts and ideas! 🢁)
+Another Sky is a space where I share my thoughts and knowledge with anyone who loves to read. It is an honor to have your attention, and I’d love to hear from you—what you enjoy, what you’d like to see more of, and how we can improve. After all, this space exists for you! (Feel free to 
+<a href='mailto:anothersky080895@gmail.com'> **send me an email**</a> with your thoughts and ideas! 
 
 This is a place where we explore diverse values and seek the truth -- a journey that takes us through history, where we explore in depth from Mesopotamia, going through the [Silk Road] from Persian to ancient China. Here, we look beyond war, colonialism, and racism to uncover the wisdom and grandeur of civilizations. You can trace your ancestors, whether they were from the ancient Yanomami tribes in the Amazon rainforest or from [Suriname Indigenous communities]. And also discovering how cultures are shaped by [Islam], Christianity, Judaism, Buddhism, Hinduism, Confucianism, Daoism etc. 😜 
 
@@ -74,3 +76,21 @@ Molly
 [Nikola]:https://iopscience.iop.org/book/mono/978-0-7503-2628-5
 [Bell Labs]:https://en.wikipedia.org/wiki/Bell_Labs
 [power, sex, and biology]:https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/
+
+
+<div id="comments"></div>
+<script src="https://giscus.app/client.js"
+        data-repo="MollyXuemn/anothersky"
+        data-repo-id="R_kgDOQxuUPg"
+        data-category="General"
+        data-category-id="DIC_kwDOQxuUPs4C0blU"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="bottom"
+        data-theme="catppuccin_latte"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
