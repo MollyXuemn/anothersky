@@ -23,6 +23,10 @@ theme:
   favicon: assets/seed.png
   icon:
     logo: logo
+    admonition:
+      note: material/fire-alert
+      info: simple/interactiondesignfoundation
+      danger: fontawesome/brands/gratipay
   features:
     - announce.dismiss
     - content.action.edit

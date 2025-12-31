@@ -1,4 +1,4 @@
-# Summary for the blog
+# Summary for the blog 🟠
 
 <span class='git-page-authors'> ![Image title](./../assets/molly1.png){ align=left width="50" style="border-radius: 50%; overflow: hidden;" loading=lazy}<a class="firstBlog" href='mailto:anothersky080895@gmail.com'>Molly Xue</a></span>
 
@@ -43,7 +43,9 @@ Faithful readers, you know the articles wrote by me take many effort and extra t
 
 ???+ Note
 
-    How my blog works: every blue highlighted word blocks allows you to access the linked ressources. And all the articles are written in two languages Chinese and English ( you can change it on the top right angle) with a special music to purify your soul:) I can add more languages in the future like Spanish（as i'm learning）, French etc if there's more like 🌹!
+    How my blog works: every blue highlighted word blocks allows you to access the linked ressources. And all the articles are written in two languages Chinese and English ( you can change it on the top right angle) with a special music to purify your soul:) I can add more languages in the future like Spanish（as i'm learning）, French etc if there's more like 🌹! 
+    
+    Ps: I also added the comment function at the bottom of some articles if you have some ideas please login to you Github accout to leave the comments 😜
 
 Thank you so much for the gift of your attention!
 
