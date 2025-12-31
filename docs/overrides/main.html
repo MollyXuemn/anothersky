@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+
+    {{ super() }}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- <link href="https://fonts.googleapis.com/css2?family=Delius:wght@400..700&display=swap" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Emilys+Candy&display=swap" rel="stylesheet"> -->
+
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script defer src="https://umami.another-sky.org/script.js" data-website-id="a42597f4-e7cd-439c-983e-923319699b43"></script>
+{% endblock %}
+
+
+{% block content %}
+    
+    {{ super() }}
+        
+    
+    <section class="newsletter"> 
+      {% include "partials/newsletter.html" %}
+    </section>
+
+      {% include "partials/music-button.html" %}
+
+
+{% endblock %}

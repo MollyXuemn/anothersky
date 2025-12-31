@@ -1,0 +1,9 @@
+comments: true
+hide:
+  - feedback
+# authors:
+#   - molly
+social:
+  cards_layout: default/variant
+search:
+  exclude: true

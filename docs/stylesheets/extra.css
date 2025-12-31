@@ -1,0 +1,42 @@
+.firstBlog {
+    margin-left: -2%;
+    
+}
+iframe{
+    border-radius: 16px;
+}
+
+
+
+.md-typeset .grid.cards > ol > li,
+.md-typeset .grid.cards > ul > li, 
+.md-typeset .grid > .card{
+    border: 0px;
+    align-content: center;
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size:1.1em;
+    --md-text-font-family: "Delius", cursive;
+}
+
+
+
+/* .md-typeset .grid.cards.eight .md-typeset .grid.cards > ol > li > :last-child, .md-typeset .grid.cards > ul > li > :last-child, .md-typeset .grid > .card > :last-child {
+   font-family: "Emilys Candy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ */
+.newsletter {
+    font-family:"Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size:0.9em;
+    font-variation-settings:
+        "wdth" 100;
+    --md-text-font-family: "Sour Gummy", sans-serif;
+}
+
+

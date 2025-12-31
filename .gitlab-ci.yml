@@ -1,0 +1,20 @@
+pages:
+  stage: deploy
+  image: python:latest
+  script:
+    - pip install -r requirements.txt
+    - pip install mkdocs-static-i18n
+    - pip install mkdocs-git-authors-plugin
+    - pip install mkdocs-audio
+    - pip install "mkdocs-material[imaging]"
+    - mkdocs build --site-dir public
+      
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - .cache/ 
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
